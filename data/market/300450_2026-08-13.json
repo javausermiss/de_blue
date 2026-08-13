@@ -1,0 +1,56 @@
+{
+  "symbol": "300450",
+  "retrieved_at": "2026-08-13 00:38:01",
+  "sources": {
+    "source_b": {
+      "symbol": "300450",
+      "name": "先导智能",
+      "price": 35.39,
+      "pre_close": 34.9,
+      "change": 0.490000000000002,
+      "change_pct": 1.4040114613180574,
+      "source": "Tencent"
+    },
+    "source_c": {
+      "symbol": "300450",
+      "name": "先导智能",
+      "price": 35.39,
+      "open": 34.64,
+      "high": 35.88,
+      "low": 34.6,
+      "pre_close": 34.9,
+      "volume": 33995357.0,
+      "amount": 1204648712.51,
+      "change": 0.49,
+      "change_pct": 1.404,
+      "market_timestamp": "2026-08-12 15:35:15",
+      "source": "Sina"
+    }
+  },
+  "fetch_status": {
+    "eastmoney": false,
+    "source_b": true,
+    "source_c": true
+  },
+  "errors": [
+    "东方财富: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  ],
+  "primary_source": "Sina",
+  "name": "先导智能",
+  "price": 35.39,
+  "open": 34.64,
+  "high": 35.88,
+  "low": 34.6,
+  "pre_close": 34.9,
+  "volume": 33995357.0,
+  "amount": 1204648712.51,
+  "market_cap": null,
+  "float_market_cap": null,
+  "pe": null,
+  "pb": null,
+  "turnover_rate": null,
+  "change": 0.49,
+  "change_pct": 1.404,
+  "market_timestamp": "2026-08-12 15:35:15",
+  "trading_date": "2026-08-12"
+}

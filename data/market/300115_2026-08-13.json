@@ -1,0 +1,56 @@
+{
+  "symbol": "300115",
+  "retrieved_at": "2026-08-13 01:08:09",
+  "sources": {
+    "source_b": {
+      "symbol": "300115",
+      "name": "长盈精密",
+      "price": 27.8,
+      "pre_close": 28.18,
+      "change": -0.379999999999999,
+      "change_pct": -1.3484740951029064,
+      "source": "Tencent"
+    },
+    "source_c": {
+      "symbol": "300115",
+      "name": "长盈精密",
+      "price": 27.8,
+      "open": 28.0,
+      "high": 28.06,
+      "low": 27.6,
+      "pre_close": 28.18,
+      "volume": 28914975.0,
+      "amount": 803583192.61,
+      "change": -0.38,
+      "change_pct": -1.3485,
+      "market_timestamp": "2026-08-12 15:35:30",
+      "source": "Sina"
+    }
+  },
+  "fetch_status": {
+    "eastmoney": false,
+    "source_b": true,
+    "source_c": true
+  },
+  "errors": [
+    "东方财富: ('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))"
+  ],
+  "primary_source": "Sina",
+  "name": "长盈精密",
+  "price": 27.8,
+  "open": 28.0,
+  "high": 28.06,
+  "low": 27.6,
+  "pre_close": 28.18,
+  "volume": 28914975.0,
+  "amount": 803583192.61,
+  "market_cap": null,
+  "float_market_cap": null,
+  "pe": null,
+  "pb": null,
+  "turnover_rate": null,
+  "change": -0.38,
+  "change_pct": -1.3485,
+  "market_timestamp": "2026-08-12 15:35:30",
+  "trading_date": "2026-08-12"
+}
